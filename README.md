@@ -1,2 +1,1 @@
-# hacktivoverflow-server
-Server Deployment
+# hacktivoverflow
